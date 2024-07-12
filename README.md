@@ -22,6 +22,9 @@ This is WINMINE.EXE ported from MS-Windows XP over to UNIX-like systems. The ide
 - Conversion between Windows resource format and BMP.
 
 ### Building
+
+_NOTE: You must build ONLY for x86 systems, because original WINMINE.EXE is 32-bit executable._
+
 Dependencies:
 - X window system
 - GNU coreutils
