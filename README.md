@@ -2,7 +2,7 @@
 
 Demo is running on _Alpine Linux (x86), XFCE_. (I ain't good minesweeper player, I know).
 
-![showcase](img/preview.gif)
+<img src="img/preview.gif" alt="showcase" width="350"/>
 
 ### Introduction
 
